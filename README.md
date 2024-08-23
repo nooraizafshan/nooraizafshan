@@ -8,6 +8,13 @@ I love playing with technology and experimenting with new ideas. Whether it's fr
 ### 🌱 Currently Learning
 I'm diving deep into the MERN stack, mastering the art of building full-stack web applications with MongoDB, Express.js, React, and Node.js.
 
+### 🛠 Tech Skills
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+
+
 ### 💞️ Collaboration
 I'm looking to collaborate on exciting front-end projects where creativity meets functionality. Let's build something amazing together!
 
