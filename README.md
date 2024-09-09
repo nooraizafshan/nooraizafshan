@@ -22,12 +22,11 @@ I'm diving deep into the MERN stack, mastering the art of building full-stack we
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-5B21B6?logo=webstorm&logoColor=white&style=flat-square)
 ![React Icons](https://img.shields.io/badge/-React%20Icons-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?logo=ant-design&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-
-
 
 ### 📊 GitHub Stats
 ![Afshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nooraizafshan&show_icons=true&theme=radical)
@@ -49,4 +48,4 @@ I believe the best code comes from a peaceful mind. So, take a deep breath, and 
 
 ---
 
-✨ This is a special repository because it reflects my journey in the tech world. Feel free to explore my projects and connect with me!
+✨ This is a special repository because it reflects my journey in the tech world. Feel free to explore my projects and connect with me! 
