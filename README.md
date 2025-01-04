@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repository-name/main/banner.png" alt="Banner Image" width="100%" />
+</div>
+
 # 👋 Hi, I'm **Afshan Noreen** (@nooraizafshan)
 
 ✨ *Passionate technologist, always eager to explore new horizons in the world of code.* ✨
