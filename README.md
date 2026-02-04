@@ -229,10 +229,7 @@ period: 2022 - 2026
 <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
 <br>.NET
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
 <br>Prisma
