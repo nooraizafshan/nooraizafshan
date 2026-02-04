@@ -256,8 +256,7 @@ period: 2022 - 2026
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nooraizafshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=E4E4E7&border_radius=10" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nooraizafshan&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&border_radius=10" alt="GitHub Streak" />
+
 
 
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nooraizafshan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=E4E4E7&border_radius=10" alt="Contribution Graph" />
