@@ -28,9 +28,9 @@
 ```yaml
 name: Afshan Noreen
 role: Full Stack Web Developer
-company: BioNexam
+company: Candev software agency
 location: Remote
-education: BSc Software Engineering
+education: BS Software Engineering
 university: University of Gujrat
 period: 2022 - 2026
 ```
