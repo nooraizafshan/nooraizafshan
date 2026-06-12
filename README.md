@@ -31,40 +31,63 @@ Currently deepening expertise in:
 ## 💻 Tech Stack
 
 ### 🔧 Backend Core Strengths
-- Node.js • TypeScript • Express.js
-- RESTful API Design
-- JWT Authentication & RBAC
-- Multi-Tenant SaaS Architecture
-- MongoDB (Aggregation Pipelines)
-- MS SQL (Basic Integration)
-- Prisma & TypeORM (Learning)
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" />
+<img src="https://skillicons.dev/icons?i=typescript" width="55" />
+<img src="https://skillicons.dev/icons?i=express" width="55" />
+<img src="https://skillicons.dev/icons?i=nestjs" width="55" />
+<img src="https://skillicons.dev/icons?i=jwt" width="55" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" />
+<img src="https://skillicons.dev/icons?i=mysql" width="55" />
+<img src="https://skillicons.dev/icons?i=postgresql" width="55" />
+
+</p>
 
 ---
 
 ### 🌐 Frontend (Supporting Stack)
-- React.js • Next.js
-- Tailwind CSS • HTML5 • CSS3
-- JavaScript (ES6+)
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react" width="55" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="55" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" />
+<img src="https://skillicons.dev/icons?i=html" width="55" />
+<img src="https://skillicons.dev/icons?i=css" width="55" />
+<img src="https://skillicons.dev/icons?i=javascript" width="55" />
+
+</p>
 
 ---
 
 ### 🧠 Learning & Advanced Topics
-- NestJS (Advanced Backend Architecture)
-- GraphQL APIs
-- PostgreSQL Optimization
-- System Design & Microservices
-- WebSocket-based real-time systems
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nestjs" width="55" />
+<img src="https://skillicons.dev/icons?i=graphql" width="55" />
+<img src="https://skillicons.dev/icons?i=postgresql" width="55" />
+<img src="https://skillicons.dev/icons?i=docker" width="55" />
+
+</p>
 
 ---
 
 ### 🛠 Tools & DevOps
-- Git • GitHub • Docker
-- Vercel • Postman • VS Code
-- GitHub Actions (CI/CD basics)
-- Agile / Scrum Workflow
 
----
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=git" width="55" />
+<img src="https://skillicons.dev/icons?i=github" width="55" />
+<img src="https://skillicons.dev/icons?i=docker" width="55" />
+<img src="https://skillicons.dev/icons?i=vercel" width="55" />
+<img src="https://skillicons.dev/icons?i=postman" width="55" />
+<img src="https://skillicons.dev/icons?i=vscode" width="55" />
+<img src="https://skillicons.dev/icons?i=githubactions" width="55" />
+
+</p>
 ## 💼 Professional Experience
 
 ### Software Developer  
