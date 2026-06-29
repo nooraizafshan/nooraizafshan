@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Afshan%20Noreen&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20MERN%20Developer%20|%20Next.js%20Specialist&descSize=16&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Afshan%20Noreen&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20MERN%20%7C%20Next.js%20%7C%20.NET%20Developer&descSize=16&descAlignY=51"/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Next.js+%26+TypeScript+Specialist;Passionate+About+Clean+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Full+Stack+MERN+Developer;Next.js+%26+.NET+Specialist;Building+Scalable+Web+Applications;Remote+Developer+%7C+UK+%7C+Denmark+%7C+Pakistan" alt="Typing SVG" />
 
 </div>
 
@@ -25,8 +25,8 @@
 ```yaml
 name: Afshan Noreen
 role: Full Stack Web Developer
-company: Candev software agency
-location: Remote
+company: CanDev Software Agency & Tyro Soft
+location: Gujrat, Punjab, Pakistan (Remote)
 education: BS Software Engineering
 university: University of Gujrat
 period: 2022 - 2026
@@ -37,12 +37,12 @@ period: 2022 - 2026
 
 **Expertise & Focus**
 
-- Frontend architecture with React/Next.js
-- Backend API design with Node.js/Express
-- Clean code & performance optimization
-- Delivering business value
-- Currently learning PostgreSQL & system design
-- Open to collaboration & mentoring
+- Full-stack apps with React, Next.js & Node.js
+- .NET backend integration via RESTful APIs
+- Role-based access control & authentication
+- Performance optimization & clean architecture
+- Digitizing real-world workflows (healthcare, SaaS)
+- Mentoring developers & open-source contribution
 
 </td>
 </tr>
@@ -50,7 +50,7 @@ period: 2022 - 2026
 
 <div align="center">
 
-*Experience working with international teams across healthcare, AI platforms, and SaaS products*
+*Remote experience with international teams across the UK 🇬🇧, Denmark 🇩🇰, and Pakistan 🇵🇰 — healthcare, AI platforms, and SaaS products*
 
 </div>
 
@@ -134,6 +134,10 @@ period: 2022 - 2026
     <br>NestJS
   </td>
   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+    <br>.NET
+  </td>
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
     <br>MongoDB
   </td>
@@ -214,20 +218,16 @@ period: 2022 - 2026
     <br>GraphQL
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-    <br>Java
-  </td>
-  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
     <br>C#
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-    <br>.NET
-  </td>
-  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
     <br>Prisma
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+    <br>Java
   </td>
 </tr>
 </table>
@@ -238,6 +238,7 @@ period: 2022 - 2026
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
 
@@ -262,24 +263,24 @@ period: 2022 - 2026
 ```typescript
 const developer = {
   name: "Afshan Noreen",
-  role: "Full Stack Developer @ BioNexam",
+  role: "Full Stack Developer @ CanDev Software Agency & Tyro Soft",
 
   workingOn: {
-    primary: "Building scalable features for BioNexam LMS",
-    focus: ["Performance optimization", "Code quality", "TypeScript patterns"]
+    primary: "Full-stack apps with React, Node.js & .NET integration",
+    focus: ["Performance optimization", "Clean architecture", "TypeScript patterns"]
   },
 
   learning: {
-    backend: ["PostgreSQL optimization", "System design"],
+    backend: ["PostgreSQL optimization", "System design", ".NET application development"],
     frontend: ["Advanced Next.js patterns", "State management"],
     other: ["GraphQL", "WebSocket applications", "Microservices"]
   },
 
-  interests: [
-    "Clean code architecture",
-    "Open-source contribution",
-    "Mentoring developers",
-    "Building user-friendly interfaces"
+  highlights: [
+    "Deployed 5 responsive websites",
+    "Built 4 full-stack production applications",
+    "Digitized hospital medical exam workflow (active in production)",
+    "Mentored 40+ students in web development"
   ],
 
   availableFor: ["Collaboration", "Freelance projects", "Tech discussions"]
@@ -296,28 +297,58 @@ const developer = {
 
 <table align="center">
 <tr>
-  <th width="25%">Role</th>
+  <th width="28%">Role</th>
   <th width="25%">Company</th>
-  <th width="20%">Duration</th>
+  <th width="17%">Duration</th>
   <th width="30%">Key Focus</th>
+</tr>
+<tr>
+  <td align="center"><b>MERN Stack Developer</b></td>
+  <td align="center">Tyro Soft</td>
+  <td align="center">Jun 2026 – Present</td>
+  <td align="center">Full-Stack Development</td>
+</tr>
+<tr>
+  <td align="center"><b>Software Developer</b></td>
+  <td align="center">CanDev Software Agency</td>
+  <td align="center">Feb 2026 – Present</td>
+  <td align="center">React, Node.js, .NET Integration</td>
+</tr>
+<tr>
+  <td align="center"><b>Full Stack Engineer</b></td>
+  <td align="center">Azeez Bhatti Hospital</td>
+  <td align="center">Sep 2025 – Jun 2026</td>
+  <td align="center">Healthcare Digital System, RBAC</td>
 </tr>
 <tr>
   <td align="center"><b>Full Stack Developer</b></td>
   <td align="center">BioNexam</td>
-  <td align="center">Current</td>
-  <td align="center">LMS Platform, Live Webinars, Analytics</td>
+  <td align="center">Sep 2025 – Jan 2026</td>
+  <td align="center">LMS Platform, APIs, Analytics</td>
 </tr>
 <tr>
   <td align="center"><b>AI-Assisted Developer</b></td>
-  <td align="center">IDO Innotech</td>
-  <td align="center">Past</td>
-  <td align="center">AI Integration, Platform Dev</td>
+  <td align="center">IDO Innotech 🇬🇧</td>
+  <td align="center">Jun 2025 – Dec 2025</td>
+  <td align="center">AI Integration, Agile Teams</td>
 </tr>
 <tr>
   <td align="center"><b>Frontend Developer</b></td>
-  <td align="center">OnRoad24Seven</td>
-  <td align="center">Past</td>
-  <td align="center">SaaS Product, UI/UX</td>
+  <td align="center">OnRoad24Seven ApS 🇩🇰</td>
+  <td align="center">Jun 2024 – Jun 2025</td>
+  <td align="center">SaaS Product, UI/UX, APIs</td>
+</tr>
+<tr>
+  <td align="center"><b>Frontend Developer</b></td>
+  <td align="center">Business Incubation Center</td>
+  <td align="center">May 2024 – Jun 2024</td>
+  <td align="center">Startup UI Components</td>
+</tr>
+<tr>
+  <td align="center"><b>Web Instructor</b></td>
+  <td align="center">Genius Grades Studio</td>
+  <td align="center">Oct 2023 – May 2024</td>
+  <td align="center">Mentored 40+ Students</td>
 </tr>
 </table>
 
