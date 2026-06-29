@@ -1,12 +1,10 @@
-# 👋 Hi, I'm Afshan Noreen
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Afshan%20Noreen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%7C%20Next.js%20%7C%20.NET&descSize=18&descAlignY=58&descColor=c7d2fe"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=3%2B+Years+Building+Real+Products;Healthcare+%7C+AI+%7C+SaaS;3+Countries+%7C+8+Companies;Mentored+40%2B+Developers;Open+to+Remote+Work+and+Collaboration" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=3%2B+Years+Building+Real+Products;Healthcare+%7C+AI+%7C+SaaS;3+Countries+%7C+8+Companies;Mentored+40%2B+Developers;Open+to+Remote+Work+and+Collaboration" />
 
-<br/>
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/afshannoreen)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge\&logo=vercel\&logoColor=white)](https://afshan-portfolio-ruby.vercel.app/)
@@ -19,27 +17,16 @@
 
 # About Me
 
-<div align="center">
-
-<table>
-<tr>
-<td width="55%">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```typescript
 const afshan = {
   role: "Full Stack Software Engineer",
   experience: "3+ Years",
-  companies: 8,
-  countries: [
-    "Pakistan",
-    "United Kingdom",
-    "Denmark"
-  ],
-
-  current: [
-    "CanDev Software Agency",
-    "Tyro Soft"
-  ],
+  companies: "8 Companies",
+  countries: "Pakistan • United Kingdom • Denmark",
+  education: "BS Software Engineering (2022-2026)",
+  current: ["CanDev Software Agency", "Tyro Soft"],
 
   expertise: [
     "React",
@@ -50,33 +37,16 @@ const afshan = {
     "PostgreSQL"
   ],
 
-  focus: [
-    "Building real products",
-    "System Design",
-    "Scalable Architecture",
-    "Mentoring Developers"
+  achievements: [
+    "Built and deployed a hospital digital examination system",
+    "Delivered production applications used by real users",
+    "Mentored 40+ developers",
+    "Worked with international teams"
   ]
 };
 ```
 
-</td>
-
-<td width="45%">
-
-|                     |          |
-| ------------------- | -------- |
-| Experience          | 3+ Years |
-| Companies           | 8        |
-| Countries           | 3        |
-| Production Apps     | 9+       |
-| Developers Mentored | 40+      |
-| Current Roles       | 2        |
-
-</td>
-</tr>
-</table>
-
-</div>
+<br>
 
 <div align="center">
 
@@ -91,109 +61,135 @@ const afshan = {
 
 # Professional Journey
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ 2026 — Present                                               │
-├──────────────────────────────────────────────────────────────┤
-│ Software Developer                                           │
-│ CanDev Software Agency                                       │
-│                                                              │
-│ • React + .NET integration                                   │
-│ • Enterprise applications                                    │
-│ • API development                                            │
-│ • Production deployments                                     │
-└──────────────────────────────────────────────────────────────┘
+<table>
+<tr>
+<td width="50%">
 
-                           │
-                           ▼
+### CanDev Software Agency
 
-┌──────────────────────────────────────────────────────────────┐
-│ 2026 — Present                                               │
-├──────────────────────────────────────────────────────────────┤
-│ MERN Stack Developer                                         │
-│ Tyro Soft                                                    │
-│                                                              │
-│ • Full-stack applications                                    │
-│ • Node.js and MongoDB solutions                              │
-│ • REST APIs and integrations                                 │
-│ • Responsive web applications                                │
-└──────────────────────────────────────────────────────────────┘
+**Software Developer**
 
-                           │
-                           ▼
+Feb 2026 – Present
 
-┌──────────────────────────────────────────────────────────────┐
-│ Sep 2025 — Jun 2026                                          │
-├──────────────────────────────────────────────────────────────┤
-│ Full Stack Engineer                                          │
-│ Azeez Bhatti Hospital                                        │
-│                                                              │
-│ • Built a digital examination system                         │
-│ • Replaced paper-based workflows                             │
-│ • Certificate and result management                          │
-│ • Production deployment                                      │
-└──────────────────────────────────────────────────────────────┘
+* React and .NET integration
+* Enterprise application development
+* API design and implementation
+* Production deployments
 
-                           │
-                           ▼
+</td>
 
-┌──────────────────────────────────────────────────────────────┐
-│ Jun 2025 — Dec 2025                                          │
-├──────────────────────────────────────────────────────────────┤
-│ AI-Assisted Developer                                        │
-│ IDO Innotech (United Kingdom)                                │
-│                                                              │
-│ • AI-assisted development workflows                          │
-│ • Product feature implementation                             │
-│ • International collaboration                                │
-│ • Application optimization                                   │
-└──────────────────────────────────────────────────────────────┘
+<td width="50%">
 
-                           │
-                           ▼
+### Tyro Soft
 
-┌──────────────────────────────────────────────────────────────┐
-│ Sep 2025 — Jan 2026                                          │
-├──────────────────────────────────────────────────────────────┤
-│ Full Stack Developer                                         │
-│ BioNexam LMS                                                 │
-│                                                              │
-│ • Next.js applications                                       │
-│ • MongoDB integration                                        │
-│ • Learning management platform                               │
-│ • Full-stack architecture                                    │
-└──────────────────────────────────────────────────────────────┘
+**MERN Stack Developer**
 
-                           │
-                           ▼
+Jun 2026 – Present
 
-┌──────────────────────────────────────────────────────────────┐
-│ Jun 2024 — Jun 2025                                          │
-├──────────────────────────────────────────────────────────────┤
-│ Frontend Developer                                           │
-│ OnRoad24Seven ApS (Denmark)                                  │
-│                                                              │
-│ • React applications                                         │
-│ • Dashboard development                                      │
-│ • Component architecture                                     │
-│ • Team collaboration                                         │
-└──────────────────────────────────────────────────────────────┘
+* Full-stack application development
+* Node.js and MongoDB solutions
+* REST APIs and integrations
+* Responsive web applications
 
-                           │
-                           ▼
+</td>
+</tr>
 
-┌──────────────────────────────────────────────────────────────┐
-│ Oct 2023 — May 2024                                          │
-├──────────────────────────────────────────────────────────────┤
-│ Web Development Instructor                                   │
-│ Genius Grades Studio                                         │
-│                                                              │
-│ • Mentored 40+ students                                      │
-│ • MERN stack training                                        │
-│ • Career guidance                                            │
-│ • Project supervision                                        │
-└──────────────────────────────────────────────────────────────┘
-```
+<tr>
+<td width="50%">
+
+### Azeez Bhatti Hospital
+
+**Full Stack Engineer**
+
+Sep 2025 – Jun 2026
+
+* Built a complete digital examination system
+* Replaced paper-based workflows
+* Certificate and result management
+* Live production deployment
+
+</td>
+
+<td width="50%">
+
+### IDO Innotech
+
+**AI-Assisted Developer**
+
+Jun 2025 – Dec 2025
+
+* AI-assisted development workflows
+* Product feature implementation
+* International remote collaboration
+* Application optimization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### BioNexam LMS
+
+**Full Stack Developer**
+
+Sep 2025 – Jan 2026
+
+* Next.js applications
+* MongoDB integration
+* Learning management platform
+* Full-stack architecture
+
+</td>
+
+<td width="50%">
+
+### OnRoad24Seven ApS
+
+**Frontend Developer**
+
+Jun 2024 – Jun 2025
+
+* React applications
+* Component architecture
+* Dashboard development
+* Team collaboration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Genius Grades Studio
+
+**Web Development Instructor**
+
+Oct 2023 – May 2024
+
+* Mentored 40+ students
+* MERN stack training
+* Career guidance
+* Project supervision
+
+</td>
+
+<td width="50%">
+
+### Freelance Projects
+
+**Full Stack Developer**
+
+2023 – Present
+
+* Multiple client projects
+* Production deployments
+* International collaboration
+* Long-term maintenance
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -201,14 +197,14 @@ const afshan = {
 
 <div align="center">
 
-| Achievement                         | Impact                                                        |
-| ----------------------------------- | ------------------------------------------------------------- |
-| Hospital Digital Examination System | Replaced paper workflows with a production-ready platform     |
-| International Experience            | Worked with teams across Pakistan, United Kingdom and Denmark |
-| Production Applications             | Built and deployed multiple full-stack applications           |
-| Developer Mentorship                | Trained and mentored 40+ developers                           |
-| React Migration                     | Improved maintainability and performance                      |
-| AI Development                      | Delivered AI-powered features and integrations                |
+| Achievement                         | Impact                                                    |
+| ----------------------------------- | --------------------------------------------------------- |
+| Hospital Digital Examination System | Replaced paper workflows with a production-ready platform |
+| International Experience            | Worked with teams across Pakistan, UK and Denmark         |
+| Production Applications             | Built and deployed multiple full-stack applications       |
+| Developer Mentorship                | Trained and mentored 40+ developers                       |
+| React Migration                     | Improved performance and maintainability                  |
+| AI Development                      | Delivered AI-powered features and integrations            |
 
 </div>
 
@@ -259,13 +255,11 @@ const afshan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nooraizafshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c7d2fe"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nooraizafshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c7d2fe" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nooraizafshan&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nooraizafshan&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nooraizafshan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=E4E4E7"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooraizafshan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nooraizafshan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=E4E4E7" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=nooraizafshan&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
@@ -297,22 +291,22 @@ Reliable, remote-ready software engineer with experience building products for h
 
 If you have a product to build, improve or scale, let's connect.
 
-<br/>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/afshannoreen)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge\&logo=vercel\&logoColor=white)](https://afshan-portfolio-ruby.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:afshannoreen010@gmail.com)
 
-<br/><br/>
+<br><br>
 
 ![](https://komarev.com/ghpvc/?username=nooraizafshan\&color=6366F1\&style=for-the-badge\&label=Profile+Views)
 ![](https://img.shields.io/github/followers/nooraizafshan?style=for-the-badge\&color=6366F1\&labelColor=0D1117)
 
-<br/><br/>
+<br><br>
 
 > I don't just write code — I build things that work for real people.
 
-<br/>
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
