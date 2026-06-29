@@ -1,399 +1,198 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Afshan%20Noreen&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20MERN%20%7C%20Next.js%20%7C%20.NET%20Developer&descSize=16&descAlignY=51"/>
-
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Full+Stack+MERN+Developer;Next.js+%26+.NET+Specialist;Building+Scalable+Web+Applications;Remote+Developer+%7C+UK+%7C+Denmark+%7C+Pakistan" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Afshan%20Noreen&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=⚡%20Full%20Stack%20Engineer%20%7C%203%20Years%20Building%20Real%20Products&descSize=17&descAlignY=55&descColor=c7d2fe"/>
 
 </div>
 
----
-
 <div align="center">
 
-🌟 **About Me**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=650&height=55&lines=MERN+Stack+%7C+Next.js+%7C+.NET+Developer;3+Years+%7C+8+Companies+%7C+3+Countries+%F0%9F%8C%8D;Turned+Hospital+Paper+Workflows+%E2%86%92+Digital;Mentored+40%2B+Developers+%7C+Built+for+Real+Users;Open+to+Remote+Freelance+%26+Collaboration" alt="Typing SVG" />
 
 </div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**Professional Profile**
-
-```yaml
-name: Afshan Noreen
-role: Full Stack Web Developer
-company: CanDev Software Agency & Tyro Soft
-location: Gujrat, Punjab, Pakistan (Remote)
-education: BS Software Engineering
-university: University of Gujrat
-period: 2022 - 2026
-```
-
-</td>
-<td width="50%" valign="top">
-
-**Expertise & Focus**
-
-- Full-stack apps with React, Next.js & Node.js
-- .NET backend integration via RESTful APIs
-- Role-based access control & authentication
-- Performance optimization & clean architecture
-- Digitizing real-world workflows (healthcare, SaaS)
-- Mentoring developers & open-source contribution
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-*Remote experience with international teams across the UK 🇬🇧, Denmark 🇩🇰, and Pakistan 🇵🇰 — healthcare, AI platforms, and SaaS products*
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 Tech Stack
-
-### Frontend Development
-
-<table>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-    <br>React
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-    <br>Next.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-    <br>TypeScript
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-    <br>JavaScript
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-    <br>HTML5
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-    <br>CSS3
-  </td>
-</tr>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-    <br>Tailwind
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-    <br>Redux
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
-    <br>Material UI
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-    <br>Sass
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-    <br>Bootstrap
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-    <br>Vite
-  </td>
-</tr>
-</table>
-
-### Backend & Databases
-
-<table>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-    <br>Node.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-    <br>Express
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-    <br>NestJS
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-    <br>.NET
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-    <br>MongoDB
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-    <br>PostgreSQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-    <br>MySQL
-  </td>
-</tr>
-</table>
-
-### DevOps & Tools
-
-<table>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-    <br>Docker
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-    <br>Git
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-    <br>GitHub
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Actions" />
-    <br>Actions
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-    <br>Linux
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-    <br>Vercel
-  </td>
-</tr>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-    <br>Postman
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-    <br>VS Code
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-    <br>Figma
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
-    <br>NPM
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
-    <br>Webpack
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-    <br>Bash
-  </td>
-</tr>
-</table>
-
-### Additional Technologies
-
-<table>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-    <br>GraphQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-    <br>C#
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-    <br>Prisma
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-    <br>Java
-  </td>
-</tr>
-</table>
 
 <br>
 
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afshannoreen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://afshan-portfolio-ruby.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afshannoreen010@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nooraizafshan)
 
 </div>
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nooraizafshan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=E4E4E7&border_radius=10" alt="Contribution Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Current Focus
-
-</div>
+## 🧬 `whoami`
 
 ```typescript
-const developer = {
-  name: "Afshan Noreen",
-  role: "Full Stack Developer @ CanDev Software Agency & Tyro Soft",
+const afshan: Engineer = {
+  name        : "Afshan Noreen",
+  title       : "Full Stack Software Engineer",
+  experience  : "3+ years across 8 companies in 🇵🇰 Pakistan · 🇬🇧 UK · 🇩🇰 Denmark",
+  education   : "BS Software Engineering — University of Gujrat (2022–2026)",
+  currently   : ["CanDev Software Agency", "Tyro Soft"],
 
-  workingOn: {
-    primary: "Full-stack apps with React, Node.js & .NET integration",
-    focus: ["Performance optimization", "Clean architecture", "TypeScript patterns"]
-  },
-
-  learning: {
-    backend: ["PostgreSQL optimization", "System design", ".NET application development"],
-    frontend: ["Advanced Next.js patterns", "State management"],
-    other: ["GraphQL", "WebSocket applications", "Microservices"]
-  },
-
-  highlights: [
-    "Deployed 5 responsive websites",
-    "Built 4 full-stack production applications",
-    "Digitized hospital medical exam workflow (active in production)",
-    "Mentored 40+ students in web development"
+  superPowers : [
+    "Turning complex requirements into clean, working software",
+    "Bridging React frontends with Node.js & .NET backends seamlessly",
+    "Digitizing real-world workflows that people actually use",
+    "Making junior devs dangerous through mentorship",
   ],
 
-  availableFor: ["Collaboration", "Freelance projects", "Tech discussions"]
+  funFact     : "I digitized an entire hospital's exam & certificate system —",
+                // it's live and in active use today ✅
 };
 ```
 
 ---
 
-<div align="center">
-
-## 💼 Professional Experience
-
-</div>
-
-<table align="center">
-<tr>
-  <th width="28%">Role</th>
-  <th width="25%">Company</th>
-  <th width="17%">Duration</th>
-  <th width="30%">Key Focus</th>
-</tr>
-<tr>
-  <td align="center"><b>MERN Stack Developer</b></td>
-  <td align="center">Tyro Soft</td>
-  <td align="center">Jun 2026 – Present</td>
-  <td align="center">Full-Stack Development</td>
-</tr>
-<tr>
-  <td align="center"><b>Software Developer</b></td>
-  <td align="center">CanDev Software Agency</td>
-  <td align="center">Feb 2026 – Present</td>
-  <td align="center">React, Node.js, .NET Integration</td>
-</tr>
-<tr>
-  <td align="center"><b>Full Stack Engineer</b></td>
-  <td align="center">Azeez Bhatti Hospital</td>
-  <td align="center">Sep 2025 – Jun 2026</td>
-  <td align="center">Healthcare Digital System, RBAC</td>
-</tr>
-<tr>
-  <td align="center"><b>Full Stack Developer</b></td>
-  <td align="center">BioNexam</td>
-  <td align="center">Sep 2025 – Jan 2026</td>
-  <td align="center">LMS Platform, APIs, Analytics</td>
-</tr>
-<tr>
-  <td align="center"><b>AI-Assisted Developer</b></td>
-  <td align="center">IDO Innotech 🇬🇧</td>
-  <td align="center">Jun 2025 – Dec 2025</td>
-  <td align="center">AI Integration, Agile Teams</td>
-</tr>
-<tr>
-  <td align="center"><b>Frontend Developer</b></td>
-  <td align="center">OnRoad24Seven ApS 🇩🇰</td>
-  <td align="center">Jun 2024 – Jun 2025</td>
-  <td align="center">SaaS Product, UI/UX, APIs</td>
-</tr>
-<tr>
-  <td align="center"><b>Frontend Developer</b></td>
-  <td align="center">Business Incubation Center</td>
-  <td align="center">May 2024 – Jun 2024</td>
-  <td align="center">Startup UI Components</td>
-</tr>
-<tr>
-  <td align="center"><b>Web Instructor</b></td>
-  <td align="center">Genius Grades Studio</td>
-  <td align="center">Oct 2023 – May 2024</td>
-  <td align="center">Mentored 40+ Students</td>
-</tr>
-</table>
-
----
+## 🏆 Career Highlights
 
 <div align="center">
 
-## 🤝 Let's Connect
-
-<a href="https://linkedin.com/in/afshannoreen">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://afshan-portfolio-ruby.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:afshannoreen010@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/nooraizafshan">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br><br>
-
-Remote work enthusiast • UI/UX passionate • Clean code advocate • Problem solver
+| 🚀 | Achievement |
+|:---:|:---|
+| 🏥 | Built & deployed a **hospital digital exam system** — replaced paper-based workflow, now in active production |
+| 🌍 | Worked remotely with teams in **UK 🇬🇧 · Denmark 🇩🇰 · Pakistan 🇵🇰** across healthcare, AI & SaaS |
+| 📦 | Deployed **5 responsive websites** + **4 full-stack production applications** |
+| 🎓 | Mentored **40+ students** from zero to full-stack developers |
+| ⚡ | Led migration of an **admin panel from .NET → React** — improved performance & maintainability |
+| 🤖 | Delivered features using **AI-assisted development** workflows at an international UK company |
 
 </div>
 
 ---
 
+## 💼 Journey — 3 Years, 8 Roles
+
 <div align="center">
 
-*"Building the web, one commit at a time"* 💻✨
+```
+2023 ──────────────────────────────────────────────────── 2026
+  │                                                          │
+  ▼                                                          ▼
+
+🏫 Web Instructor        🌍 Frontend Dev        🏥 Full Stack Eng
+Genius Grades Studio  →  OnRoad24Seven ApS  →   Azeez Bhatti Hospital
+Oct 2023 – May 2024      (Denmark 🇩🇰)           Sep 2025 – Jun 2026
+Mentored 40+ devs        Jun 2024 – Jun 2025     Digitized healthcare
+                                ↓
+                    🤖 AI-Assisted Dev          📚 Full Stack Dev
+                    IDO Innotech (UK 🇬🇧)    →  BioNexam LMS
+                    Jun 2025 – Dec 2025         Sep 2025 – Jan 2026
+                    AI integration              Next.js · MongoDB
+                                ↓
+                    🏢 Software Developer       🔥 MERN Developer
+                    CanDev Agency           →   Tyro Soft
+                    Feb 2026 – Present          Jun 2026 – Present
+                    React + .NET integration    Full-Stack Dev
+```
+
+</div>
+
+---
+
+## 💻 Tech Arsenal
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**DevOps, Tools & More**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nooraizafshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c7d2fe" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nooraizafshan&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nooraizafshan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=E4E4E7&border_radius=10" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🌱 Currently Growing
+
+<div align="center">
+
+| Area | What I'm leveling up |
+|:---:|:---|
+| 🏗️ **System Design** | Scalable architecture patterns & microservices |
+| 🗄️ **PostgreSQL** | Query optimization, indexing, advanced patterns |
+| 🔷 **.NET & C#** | Secure & scalable enterprise application development |
+| 🔗 **GraphQL** | Schema design, resolvers, subscriptions |
+| 🔌 **WebSockets** | Real-time features & event-driven architecture |
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Together
+
+<div align="center">
+
+*I'm a reliable, remote-ready engineer with 3 years of real-world experience.*
+*If you have a product to build, improve, or scale — let's talk.*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afshannoreen)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://afshan-portfolio-ruby.vercel.app/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afshannoreen010@gmail.com)
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nooraizafshan&color=6366F1&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/nooraizafshan?style=for-the-badge&color=6366F1&labelColor=0D1117)
-![GitHub Stars](https://img.shields.io/github/stars/nooraizafshan?style=for-the-badge&color=6366F1&labelColor=0D1117)
 
 <br>
 
-Thanks for visiting! Feel free to explore my repositories and reach out for collaboration.
+> *"I don't just write code — I build things that work for real people."*
 
 <br>
 
-<!-- Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
